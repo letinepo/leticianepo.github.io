@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'KoHo', sans-serif;
+    background-color: whitesmoke;
+
+}
+
+header {
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1640px;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.perfil {
+    border-radius: 50%;
+    position: relative;
+    width: 120px;
+    height: 130px;
+}
+
+h1 {
+    font-family: 'KoHo', sans-serif;
+}  
+
+h3 {
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.insta {
+    width: 44px; 
+    height: 42px;
+    border-radius: 10%;
+}
+
+.wpp {
+    width: 40px; 
+    height: 40px;
+}
+
+header > a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #85196c;
+    text-align: center;
+}
+
+nav > ul{
+    padding: 11px;
+    margin:  0;
+}
+
+nav > ul > li {
+    display: inline;
+    padding: 11px;
+}
+
+nav > ul > li > a {
+    text-decoration: none;
+    color: white;
+    font-family: 'KoHo', sans-serif;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #85196c;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}

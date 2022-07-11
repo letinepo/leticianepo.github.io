@@ -1,0 +1,10 @@
+Section {
+    background-color: #d4aecb;
+    color: #53342d;
+    margin: 56px;
+    padding: 25px;
+    border-radius: 15px;
+    border-style: outset;
+    border-color: rgb(87, 201, 221);
+    text-justify: auto; 
+}
