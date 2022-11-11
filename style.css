@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     font-family: 'KoHo', sans-serif;
@@ -9,16 +10,15 @@ header {
     background-image: url(logo.jpg);
     background-repeat: no-repeat;
     background-size: 1640px;
-    padding: 20px;
+    padding: 40px;
     text-align: center;
     color: whitesmoke;
 }
 
 .perfil {
-    border-radius: 50%;
     position: relative;
     width: 120px;
-    height: 130px;
+    height: 120;
 }
 
 h1 {
@@ -32,7 +32,6 @@ h3 {
 .insta {
     width: 44px; 
     height: 42px;
-    border-radius: 10%;
 }
 
 .wpp {
