@@ -29,14 +29,9 @@ h3 {
     font-family: 'Balsamiq Sans', cursive;
 }
 
-.insta {
+.icon {
     width: 44px; 
-    height: 42px;
-}
-
-.wpp {
-    width: 40px; 
-    height: 40px;
+    height: 44px;
 }
 
 header > a {
