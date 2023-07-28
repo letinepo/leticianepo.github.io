@@ -29,6 +29,11 @@ h3 {
     font-family: 'Balsamiq Sans', cursive;
 }
 
+h2 {
+    font-size: 21px;
+    font-family: 'KoHo', sans-serif;
+}
+
 .icon {
     width: 44px; 
     height: 42px;
@@ -66,4 +71,9 @@ footer {
     padding: 15px;
     text-align: center;
     color: white;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }

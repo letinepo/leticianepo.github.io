@@ -1,0 +1,42 @@
+main {
+    padding: 100px;
+}
+
+form {
+    width: 34%;
+    padding: 22px;
+    border-radius: 16px;
+    color: #53342d;
+    background-color: #d4aecb;
+    margin: 0 auto;
+    display: block;
+}
+
+fieldset {
+    border: 0;
+}
+
+fieldset > label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+fieldset > input {
+    height: 23px;
+}
+
+.input-form {
+    width: 100%;
+}
+
+.button {
+    background-color: #c05aa8;
+    border-radius: 11px;
+    border-color: #9e3986;
+    border-style: outset;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    width: 70px;
+    text-transform: uppercase;
+}
